@@ -8,6 +8,25 @@ A ideia de criar Python surgiu no final da década de 1980, quando Guido van Ros
 
 Desde seu lançamento, Python passou por várias versões, com melhorias constantes e novas funcionalidades sendo adicionadas ao longo dos anos. A versão mais atual, Python 3, introduziu várias mudanças significativas em relação ao Python 2, promovendo uma nova era de desenvolvimento.
 
+### Elementos Fundamentais do Python
+Um programa de computador deve ser estruturado de forma sequencial, de modo que os dados inseridos sejam processados e exibidos conforme a necessidade do usuário. Dessa forma, os programas desenvolvidos na linguagem Python são interpretados de cima para baixo, seguindo uma estrutura baseada em três categorias principais, que são:
+    - Classes:
+        - Objetos simples;
+        - Objetos compostos.
+    - Estrutura de controle:
+        - Estrutura condicianal;
+        - Estrutura condicional multipla;
+        - Estrutura de repetição;
+        - Estrutura de iteração;
+        - Comandos de fluxo lógicos de execução.
+    - Funções internas:
+        - `print()`gera a saída de dados para tela ou arquivo;
+        - `input()` faz a leitura de dados digitados pelo usuário;
+        - `len()` retorna o cumprimento de uma sequencia;
+        - `type()` retorna o tipo de um objeto;
+        - `id()` retorna o indentificador de um objeto;
+        - Entre outros...
+Note: Esta é apenas uma visão geral dos elementos existentes, não se preocupe em memorizá-los ou compreendê-los completamente agora, pois ao longo deste guia eles serão abordados em detalhes.
 
 ### Filosofia de Design
 A filosofia de design do Python é baseada em alguns princípios fundamentais que são bem expressos no "

@@ -6,8 +6,6 @@
 
  Este é um guia, aqui você não ira aprender tudo, mas ira ter um norte para seguir, desejo ajudar da melhor forma possível com seus estudos e assim te inspirar para se desenvolver cada vez mais. Os conceitos aqui abordados serão:
 
-***
-
  ## 1º Módulo:
     [] 1.1 - Introdução
     [] 1.2 - Classes e Objetos
