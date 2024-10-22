@@ -26,7 +26,8 @@ Um programa de computador deve ser estruturado de forma sequencial, de modo que 
     - `type()` retorna o tipo de um objeto;
     - `id()` retorna o indentificador de um objeto;
     - Entre outros...
-Note: Esta é apenas uma visão geral dos elementos existentes, não se preocupe em memorizá-los ou compreendê-los completamente agora, pois ao longo deste guia eles serão abordados em detalhes.
+
+**Note:** Esta é apenas uma visão geral dos elementos existentes, não se preocupe em memorizá-los ou compreendê-los completamente agora, pois ao longo deste guia eles serão abordados em detalhes.
 
 ### Filosofia de Design
 A filosofia de design do Python é baseada em alguns princípios fundamentais que são bem expressos no "
