@@ -9,8 +9,8 @@
  ## 1º Módulo:
     [x] 1.1 - Introdução
     [x] 1.2 - Classes e Objetos
-    [] 1.3 - Comandos de Saída e Entrada
-    [] 1.4 - Comando Condicional
+    [x] 1.3 - Comandos de Saída e Entrada
+    [x] 1.4 - Comando Condicional
     [] 1.5 - Comandos de Repetição
     [] 1.6 - Tratamento de Exceções
     [] 1.7 - Objetos Compostos
