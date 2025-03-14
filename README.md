@@ -12,7 +12,7 @@
 [x] 1.3 - [Comandos de Saída e Entrada](Modulo_1/1.3_Comandos_de_saida_e_entrada/)  
 [x] 1.4 - [Comando Condicional](Modulo_1/1.4_Comandos_Condicionais/)  
 [x] 1.5 - [Comandos de Repetição](Modulo_1/1.5_Comandos_De_Repetição/)  
-[] 1.6 - Tratamento de Exceções  
+[x] 1.6 - [Tratamento de Exceções](Modulo_1/1.6_Tratamento_de_Exeções/)  
 [] 1.7 - Objetos Compostos  
 
 ## 2º Módulo:
