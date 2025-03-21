@@ -7,13 +7,13 @@
  Este é um guia, aqui você não ira aprender tudo, mas ira ter um norte para seguir, desejo ajudar da melhor forma possível com seus estudos e assim te inspirar para se desenvolver cada vez mais. Os conceitos aqui abordados serão:
 
  ## 1º Módulo:
-[x] 1.1 - [Introdução](Modulo_1/1.1_Introdução/)  
-[x] 1.2 - [Classes e Objetos](Modulo_1/1.2_Classes_e_Objetos/)  
-[x] 1.3 - [Comandos de Saída e Entrada](Modulo_1/1.3_Comandos_de_saida_e_entrada/)  
-[x] 1.4 - [Comando Condicional](Modulo_1/1.4_Comandos_Condicionais/)  
-[x] 1.5 - [Comandos de Repetição](Modulo_1/1.5_Comandos_De_Repetição/)  
-[x] 1.6 - [Tratamento de Exceções](Modulo_1/1.6_Tratamento_de_Exeções/)  
-[] 1.7 - Objetos Compostos  
+[x] 1.1 - [Introdução](/Modulo_1/1.1_Introdução/)  
+[x] 1.2 - [Classes e Objetos](/Modulo_1/1.2_Classes_e_Objetos/)  
+[x] 1.3 - [Comandos de Saída e Entrada](/Modulo_1/1.3_Comandos_de_saida_e_entrada/)  
+[x] 1.4 - [Comando Condicional](/Modulo_1/1.4_Comandos_Condicionais/)  
+[x] 1.5 - [Comandos de Repetição](/Modulo_1/1.5_Comandos_De_Repetição/)  
+[x] 1.6 - [Tratamento de Exceções](/Modulo_1/1.6_Tratamento_de_Exeções/)  
+[x] 1.7 - [Objetos Compostos](/Modulo_1/1.7_Objetos_compostos/)  
 
 ## 2º Módulo:
     em desenvolvimento
